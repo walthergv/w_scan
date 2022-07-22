@@ -4,6 +4,7 @@
 ## Requierements
 `Python 3`
 `Scapy v.2.4.4`
+`sudo role`
 
 ## Install Scapy
     pip install scapy
